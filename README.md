@@ -143,5 +143,5 @@ This repository is part of the CodSoft Internship Program, aimed at improving pr
 
 ## Author
 
-Your Name
-GitHub: https://github.com/<your-username>
+Bhavini Awasthi
+GitHub: https://github.com/bhaviniawasthi1
